@@ -1,0 +1,1 @@
+Bu program, kullanıcıdan bir sayı alır ve bu sayının asal olup olmadığını kontrol eder. Asal sayı kontrolü isPrime() metodu kullanılarak gerçekleştirilir. isPrime() metodu, isPrime(int number, int divisor) yardımcı metodu ile recursive olarak çalışır. Bu metot, sayının asal olup olmadığını kontrol eder ve asal ise true, değilse false döndürür.
